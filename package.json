@@ -1,5 +1,5 @@
 {
-  "name": "@deepstream/protobuf",
+  "name": "myprotobuf",
   "version": "1.0.4",
   "description": "The protobuf protocol wrapper used by deepstream.io",
   "scripts": {
